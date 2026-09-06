@@ -96,3 +96,4 @@ int main() {
   يعتبر ثغرة أمنية سهلة الاكتشاف بـ ltrace أو strings أو Ghidra.
 
 ================================================================================
+link room : https://tryhackme.com/room/classicpasswd
